@@ -6,4 +6,4 @@ During my academic journey, I built a strong foundation in programming and probl
 
 I completed an internship at Glossary Soft Tech Limited Pvt, where I worked on web design projects using HTML, CSS, and JavaScript to create responsive, user-friendly websites.
 
-Currently, I'm focused on expanding my knowledge of AWS, MySQL, data analysis, and other programming languages through self-learning and hands-on projects.
+Currently, I'm focused on expanding my knowledge of selenium, pytest, python, allure and other programming languages through self-learning and hands-on projects.
